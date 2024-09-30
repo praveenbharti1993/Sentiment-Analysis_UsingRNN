@@ -1,0 +1,1 @@
+Here I am using IMDB dataset from tensorflow to predict the sentiment of the review. I am using RNN model to predict the sentiment as positive and negative . I am deploying the model on the 'Streamlit' cloud. 
